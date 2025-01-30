@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/27 21:22:55.000.713,=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 21:24:26.000.132,C:\Projetos\Unit1.pas=C:\Projetos\ProcessarLista\View\UView.Principal.pas</Transaction>
+    <Transaction>2025/01/27 21:24:26.000.132,C:\Projetos\Unit1.dfm=C:\Projetos\ProcessarLista\View\UView.Principal.dfm</Transaction>
+    <Transaction>2025/01/27 21:24:47.000.662,C:\Projetos\Project1.dproj=C:\Projetos\ProcessarLista\ProjProcessarLista.dproj</Transaction>
+    <Transaction>2025/01/27 21:32:41.000.676,=C:\Projetos\ProcessarLista\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 21:33:21.000.331,C:\Projetos\ProcessarLista\Unit1.pas=C:\Projetos\ProcessarLista\Controller\UControlle.ProcessarLista.pas</Transaction>
+    <Transaction>2025/01/27 21:33:39.000.955,C:\Projetos\ProcessarLista\Controller\UControlle.ProcessarLista.pas=C:\Projetos\ProcessarLista\Controller\UController.ProcessarLista.pas</Transaction>
+    <Transaction>2025/01/27 21:34:00.000.048,=C:\Projetos\ProcessarLista\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 21:34:20.000.563,C:\Projetos\ProcessarLista\Unit1.pas=C:\Projetos\ProcessarLista\Model\UModel.ProcessarLista.pas</Transaction>
+    <Transaction>2025/01/27 21:47:08.000.565,=C:\Projetos\ProcessarLista\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 21:47:49.000.345,C:\Projetos\ProcessarLista\Unit1.pas=C:\Projetos\ProcessarLista\Utils\UTypes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
